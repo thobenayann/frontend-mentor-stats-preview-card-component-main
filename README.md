@@ -29,11 +29,11 @@ Users should be able to:
 
 - Desktop screenshot :
   
-![desktop-screenshot](images\desktop-screenshot.jpg)
+![desktop-screenshot](E:\Work\web-development\Frontend Mentor\frontend-mentor-stats-preview-card-component-main\images\desktop-screenshot.jpg)
 
 - Mobile screenshot :
   
-![mobile-screenshot](images\mobile-screenshot.jpg)
+![mobile-screenshot](E:\Work\web-development\Frontend Mentor\frontend-mentor-stats-preview-card-component-main\images\mobile-screenshot.jpg)
 
 ### Links
 
