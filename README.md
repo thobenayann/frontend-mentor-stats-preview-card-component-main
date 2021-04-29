@@ -29,11 +29,11 @@ Users should be able to:
 
 - Desktop screenshot :
   
-![desktop-screenshot](images\desktop-screenshot.png)
+![desktop-screenshot](images\desktop-screenshot.jpg)
 
 - Mobile screenshot :
   
-![mobile-screenshot](images\mobile-screenshot.png)
+![mobile-screenshot](images\mobile-screenshot.jpg)
 
 ### Links
 
